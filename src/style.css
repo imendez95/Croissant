@@ -1,6 +1,7 @@
 body {
   text-align: center;
   margin-top: 40px;
+  background-color: rgb(243, 189, 124);
 }
 img {
   display: block;
@@ -21,4 +22,5 @@ footer {
 }
 footer a {
   margin: 0 10px;
+  color: blue;
 }
